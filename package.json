@@ -1,0 +1,13 @@
+{
+  "name": "demo-vulnerable-app",
+  "version": "1.0.0",
+  "description": "Demo app with intentional security issues for Code Analyzer testing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.0",
+    "pg": "^8.11.0",
+    "jsonwebtoken": "^9.0.0",
+    "bcrypt": "^5.1.0",
+    "yaml": "^2.3.0"
+  }
+}
